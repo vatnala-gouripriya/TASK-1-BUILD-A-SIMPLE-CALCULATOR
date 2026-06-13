@@ -40,3 +40,4 @@ Base model for creating advanced calculator projects
 Solving everyday mathematical problems
 ## CONCLUSION
 The Simple Calculator project effectively demonstrates the use of Python to perform basic arithmetic operations. Through a user-friendly command-line interface, users can carry out addition, subtraction, multiplication, and division with ease. The project includes input validation and exception handling to ensure smooth and dependable execution. It provides valuable experience with fundamental programming concepts such as variables, functions, conditional statements, user interaction, and error handling. Overall, this project serves as an excellent starting point for beginners and lays the groundwork for developing more complex Python applications in the future.
+<img width="1280" height="511" alt="image" src="https://github.com/user-attachments/assets/a27a0432-e88c-40d7-9546-cc85dd3f9096" />
